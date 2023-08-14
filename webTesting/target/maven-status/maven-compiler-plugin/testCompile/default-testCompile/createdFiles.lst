@@ -1,0 +1,5 @@
+StepsDefinitions\TestRunner.class
+Setups\DriverSetup.class
+pages\mastodon\MastodonFlowPage.class
+Setups\WebElementPropertiesReader.class
+StepsDefinitions\MastodonStepDefs.class
